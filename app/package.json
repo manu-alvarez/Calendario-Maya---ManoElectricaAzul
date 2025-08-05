@@ -1,5 +1,5 @@
 {
-  "name": "app",
+  "name": "Calendario Maya - Mano Electrica Azul",
   "version": "1.0.0",
   "main": "index.ts",
   "scripts": {
@@ -19,7 +19,7 @@
     "@expo/metro-runtime": "~5.0.4"
   },
   "devDependencies": {
-    "@babel/core": "^7.25.2",
+    "@babel/core": "^7.26.0",
     "@types/react": "~19.0.10",
     "typescript": "~5.8.3"
   },
